@@ -7,3 +7,18 @@ age = 20
 gpa = 3.5
 is_student = True
 
+gpa = int(gpa)
+
+print(gpa)
+
+age = float(age)
+
+print(age)
+
+is_student = str(is_student)
+
+print(is_student)
+
+name = bool(name)
+
+print(name)
