@@ -1,2 +1,13 @@
-hello
-world
+Here is ALL the language codes
+
+🇬🇧 English → en
+🇸🇦 Arabic → ar
+🇳🇴 Norwegian → no
+🇫🇷 French → fr
+🇩🇪 German → de
+🇪🇸 Spanish → es
+🇮🇹 Italian → it
+🇯🇵 Japanese → ja
+🇨🇳 Chinese → zh
+
+
