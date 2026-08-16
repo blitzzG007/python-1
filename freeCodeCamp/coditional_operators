@@ -1,0 +1,44 @@
+# Booleans and Conditionals
+
+Here's a table with the comparison operators in Python:
+
+Operator	Name	Description
+==	        Equal -	Checks if two values are equal
+!=	        Not equal -	Checks if two values are not equal
+>	        Greater than - Checks if the value on the left is greater than the value on the right
+<	        Less than -	Checks if the value on the left is less than the value on the right
+>=	        Greater than or equal - Checks if the value on the left is greater than or equal to the value on the right
+<=	        Less than or equal - Checks if the value on the left is less than or equal to the value on the right
+
+Here are some of those expressions that evaluate to True or False:
+print(3 > 4) # False
+print(3 < 4) # True
+print(3 == 4) # False
+print(4 == 4) # True
+print(3 != 4) # True
+print(3 >= 4) # False
+print(3 <= 4) # True
+
+These operators can be used in conditionals to compare values and run certain code based on
+whether the conditional evaluates to True or False.
+
+
+
+
+There are three Boolean operators in Python: and, or, and not.
+
+# and :
+The and operator takes two operands and returns the first operand if it is falsy, otherwise,
+it returns the second operand. Both operands must be truthy for an expression to result in a truthy value.
+
+
+# or :
+This operator returns the first operand if it is truthy, otherwise, it returns the second operand.
+An or expression results in a truthy value if at least one operand is truthy.
+The or operator is also known as a short-circuit operator.
+
+
+# not :
+The last operator we will look at is the not operator which takes a single operand and inverts its boolean value.
+It converts truthy values to False and falsy values to True. Unlike the previous operators we looked at,
+not always returns True or False.
