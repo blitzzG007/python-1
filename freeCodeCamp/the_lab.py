@@ -1,5 +1,4 @@
 # Travel Weather Planner
-
 distance_mi = 4
 is_raining = False
 has_bike = True
